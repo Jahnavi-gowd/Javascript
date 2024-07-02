@@ -1,0 +1,12 @@
+var price=399;
+var rating=4.5;
+var brand="peterengland";
+var prod_name="menscheckshirt";
+var avail=true
+var discount;
+console.log(typeof price)
+console.log(typeof rating)
+console.log(typeof brand)
+console.log(typeof prod_name)
+console.log(typeof avail)
+console.log(typeof discount)
